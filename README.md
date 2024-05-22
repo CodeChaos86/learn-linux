@@ -3,7 +3,7 @@
 ## File type: markdown
 ## Date: May 20, 2024
 
-# New blank line created using 'echo -e'
+## New blank line created using 'echo -e'
 All lines in this file were created directly from the command line.
 Use the following format:
 echo "Use the following format:" >> README.md
