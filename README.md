@@ -1,7 +1,7 @@
 # Learning Linux from the command line
-# File name: README.md
-# File type: markdown
-# Date: May 20, 2024
+## File name: README.md
+## File type: markdown
+## Date: May 20, 2024
 
 # New blank line created using 'echo -e'
 All lines in this file were created directly from the command line.
